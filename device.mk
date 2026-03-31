@@ -18,7 +18,7 @@ AB_OTA_PARTITIONS += \
     odm_dlkm \
     product \
     system \
-    system_ext \ 
+    system_ext \
     systen_dlkm \
     tr_carrier \
     tr_company \
